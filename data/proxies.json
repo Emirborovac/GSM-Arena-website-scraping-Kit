@@ -1,0 +1,61 @@
+[
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.1",
+    "port": 8751,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.123",
+    "port": 8752,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.124",
+    "port": 8753,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.125",
+    "port": 8754,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.126",
+    "port": 8755,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.127",
+    "port": 8756,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.128",
+    "port": 8757,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.129",
+    "port": 8758,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.13",
+    "port": 8759,
+    "countryCode": "BE"
+  },
+  {
+    "entryPoint": "dc.oxylabs.io",
+    "ip": "104.232.220.130",
+    "port": 8760,
+    "countryCode": "BE"
+  } ]
